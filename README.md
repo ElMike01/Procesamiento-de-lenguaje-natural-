@@ -20,8 +20,7 @@ Este repositorio contiene las tareas y proyectos desarrollados para la asignatur
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/Procesamiento-de-lenguaje-natural-.git](https://github.com/TU_USUARIO/Procesamiento-de-lenguaje-natural-.git)
-   
+   git clone https://github.com/ElMike01/Procesamiento-de-lenguaje-natural-.git
 2. Instalar dependencias necesarias
    pip install -r requirements.txt
 
