@@ -24,7 +24,3 @@ Este repositorio contiene las tareas y proyectos desarrollados para la asignatur
 2. Instalar dependencias necesarias
   ```bash
    pip install -r requirements.txt
-
-3. Ejecutar jupyter lab o notebook
-```bash
-jupyterlab o notebook
