@@ -22,7 +22,9 @@ Este repositorio contiene las tareas y proyectos desarrollados para la asignatur
    ```bash
    git clone https://github.com/ElMike01/Procesamiento-de-lenguaje-natural-.git
 2. Instalar dependencias necesarias
+  ```bash
    pip install -r requirements.txt
 
-3.abrir jupyter lab o note
-jupyter labs
+3. Ejecutar jupyter lab o notebook
+```bash
+jupyterlab o notebook
